@@ -1,1 +1,1 @@
-# authenticated-doc-converter
+# Authenticated Doc Converter
